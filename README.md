@@ -11,8 +11,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/foundry-erc20-cu
-cd foundry-erc20-cu
+git clone https://github.com/Ramprasad4121/ERC-20-Token.git
+cd ERC-20-Token
 forge install 
 forge build
 ```
@@ -21,7 +21,7 @@ forge build
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/foundry-erc20-cu)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/ERC-20-Token)
 
 # Usage
 
